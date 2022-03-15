@@ -1,2 +1,5 @@
-# focalize-native-app
-Simple react native app that helps you to focus, built using React Native, Expo, Styled-components in Typescript
+# Focalize
+
+📆 Simple app that helps you to focus, built using Expo, Typescript and React Native
+
+![](https://i.imgur.com/zc3JE5E.jpg)
